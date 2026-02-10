@@ -1,6 +1,6 @@
-## SHA-3 (Keccak) Implementation in Python
+## SHA-3 (Keccak) Implementation
 
-This repository contains a Python implementation of the SHA-3 (Keccak) cryptographic hash function.  
+This repository contains implementation of the SHA-3 (Keccak) cryptographic hash function.  
 The implementation fully complies with **NIST FIPS 202**.
 
 ### Supported parameters
